@@ -65,7 +65,7 @@ cardiovascular-prediction/
 │   ├──  Heart_diseases_prediction_Pyspark.ipynb # Notebook principal
 │
 ├── data/
-│   ├── cardiovascular_data.csv       # Dataset
+│   ├── heart-disease-68ec37d6b52cb588200595     # Dataset
 │
 ├── Pipeline/
 │   └── best_cardiovascular_model/    # Modèle sauvegardé (Pipeline complet)
