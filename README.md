@@ -71,8 +71,7 @@ cardiovascular-prediction/
 │   └── best_cardiovascular_model/    # Modèle sauvegardé (Pipeline complet)
 │
 ├── visualisations/ # Representations graphiques des distributions, etc... .png 
-│  
-
+ 
 
 ```
 
