@@ -119,7 +119,7 @@ Métriques calculées pour chaque modèle :
 | Random Forest | 0.835443 |0.834123    |0.835314 | 0.835443
  |
 ### Meilleur modèle
-**[Logistic regression]** avec un F1-Score de **0.870964**
+**Logistic regression** avec un F1-Score de **0.870964**
 
 ## Auteur
 
